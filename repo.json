@@ -1,8 +1,0 @@
-{
-    "name": "Hexated providers repository",
-    "description": "Providers from all country",
-    "manifestVersion": 1,
-    "pluginLists": [
-        "https://codeberg.org/Hexated/cloudstream-extensions-hexated/raw/branch/builds/plugins.json"
-    ]
-}
